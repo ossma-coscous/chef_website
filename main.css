@@ -286,6 +286,7 @@ h6 {
   text-align: center;
   position: relative;
   top: -40px;
+  margin-left: 30px;
 }
 
 .layout .circle h2 {
@@ -703,7 +704,7 @@ h6 {
     padding: 2rem;
     margin-right: 60%;
     height: 800px;
-    margin-top: 50px;
+    margin-top: 30px;
   }
   
   .icons .icon-1,
@@ -742,7 +743,8 @@ h6 {
     text-align: center;
     position: static;
     left: 0;
-    max-width: 100%;
+    max-width: 90%;
+    margin: auto;
   }
 }
 
